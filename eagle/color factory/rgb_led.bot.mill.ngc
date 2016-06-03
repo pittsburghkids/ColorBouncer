@@ -1,0 +1,41 @@
+(/Applications/EAGLE/ulp/pcb-gcode.ulp)
+(Copyright 2005 - 2009 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../eagle/color factory/rgb_led.brd)
+(Current profile is /Applications/EAGLE/ulp/profiles/emc.pp  )
+(This file generated 2/13/10 1:51 PM)
+G20
+(Absolute Coordinates)
+G90
+G00 X0.0000 Y0.0000 
+M03
+G04 P1.000000
+G00 Z0.0200 
+G00 X-0.1750 Y0.9375 
+G01 Z-0.0700 F3.00  
+G01 X-0.3750 Y0.9375 F2.50  
+G01 X-0.4750 Y1.0375 
+G01 X-0.7875 Y1.0375 
+G01 X-0.8625 Y0.9625 
+G01 X-0.8625 Y0.7750 
+G01 X-0.9000 Y0.7375 
+G01 X-1.0125 Y0.7375 
+G01 X-1.1125 Y0.6375 
+G01 X-1.1125 Y0.5125 
+G01 X-1.0125 Y0.4125 
+G01 X-0.8000 Y0.4125 
+G01 X-0.7375 Y0.3500 
+G01 X-0.7375 Y0.2125 
+G01 X-0.6625 Y0.1375 
+G01 X-0.3125 Y0.1375 
+G01 X-0.1625 Y0.2875 
+G01 X-0.1625 Y0.3875 
+G01 X-0.0375 Y0.5125 
+G01 X-0.0375 Y0.6375 
+G01 X-0.1500 Y0.7500 
+G01 X-0.1500 Y0.9125 
+G01 X-0.1750 Y0.9375 
+G00 Z0.5000 
+M05
+M02
